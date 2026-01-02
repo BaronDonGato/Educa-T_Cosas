@@ -1,2 +1,2 @@
-# Educa-T_Descarga
-Descarga Educa-T
+# Educa-T_Cosas
+Cosas de la App Educa-T
